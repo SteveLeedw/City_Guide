@@ -1,0 +1,118 @@
+body{
+    width: 1250px;
+    margin: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(204, 229, 255);
+  }
+  
+  .mainbar{
+      position:fixed;
+      padding:0;
+      margin:0;
+  
+      top:0;
+      left:0;
+  
+      width: 100%;
+      height: 100%;
+  }
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    text-align: center;
+  }
+  li{
+    display: inline;
+  }
+
+  h1{
+      color: rgb(255,0,127);
+      font-family: "Lobster";
+      font-weight: 400;
+      font-size: 70px;
+      text-shadow: 3px 3px 3px rgb(255,51,51);
+  }
+  
+  h2{
+    color: rgb(234, 0, 255);
+    font-family: "Lobster";
+    font-weight: 800;
+    font-size: 150%;
+    text-shadow: 1px 1px 1px rgb(0, 255, 255);
+  }
+  h3{
+    color: rgb(255, 0, 106);
+    font-family: "Lobster";
+    font-weight: 800;
+    font-size: 150%;
+    text-shadow: 1px 1px 1px rgb(238, 241, 6);
+  }
+  
+  
+  .infor_Seoul{
+    color: rgb(255, 102, 178);
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 72%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(255, 51, 51);
+    padding: 10px;
+    box-shadow: 5px 10px rgb(255, 153, 153);
+  }
+  
+  body{
+    color: rgb(255, 45, 45);
+    font-family: "Raleway";
+  }
+  
+  a:link{
+    color: red
+  }
+
+  a:visited{
+    color:blueviolet
+  }
+
+  a:hover{
+    color:turquoise;
+  }
+  .subtitles{
+    font-style: oblique;
+  }
+  
+  table{
+    border: solid;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    color: rgb(153,51,255);
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 204, 229);
+  }
+  
+  ol{
+    border: dashed lightpink;
+    color: lightpink;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.9;
+  }
+  
+  .form{
+    color: rgb(255, 71, 215);
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: none;
+  }
+  input[type=text]{
+    background-color: rgb(250, 209, 76);
+  }
