@@ -1,4 +1,4 @@
-# City_Guide
+# web_City_Guide
 
 This is basic form about html and css. I wanted to introduce about Seoul in Korea.
 So I made simple form city guide web page.
